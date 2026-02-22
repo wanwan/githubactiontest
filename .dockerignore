@@ -5,3 +5,5 @@ CMakeCache.txt
 CMakeFiles/
 **/CMakeCache.txt
 **/CMakeFiles/
+.git
+.gitignore
