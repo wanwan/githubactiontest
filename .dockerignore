@@ -1,0 +1,7 @@
+build/
+out/
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+**/CMakeCache.txt
+**/CMakeFiles/
